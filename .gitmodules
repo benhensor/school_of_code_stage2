@@ -1,0 +1,6 @@
+[submodule "benhensor.github.tribute_page.git"]
+	path = benhensor.github.tribute_page.git
+	url = https://github.com/benhensor/benhensor.github.tribute_page.git
+[submodule "My-First-Repository.git"]
+	path = My-First-Repository.git
+	url = https://github.com/benhensor/My-First-Repository.git
